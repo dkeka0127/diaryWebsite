@@ -1,6 +1,6 @@
 import React from 'react';
-import '../css/Main.css';
-import logoIMG from '../img/logo.jpeg';
+import '../../css/Main.css';
+import logoIMG from '../../img/logo.jpeg';
 
 // DIARY 화면
 
@@ -35,7 +35,7 @@ function Main() {
 
             </footer>
         </div>
-    )
+    );
 }
 
 export default Main;
